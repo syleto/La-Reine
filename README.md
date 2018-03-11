@@ -1,6 +1,7 @@
 # La-Reine
 Arène de jeu Projet S2 Efrei Paris
 Equipe: Lékiptip 
+
 Contexte: Notre arène plonge les joueurs au sein d'une map où le but est d'être le premier à sortir de l'arène ou bien le dernier survivant. ou le meilleur..
 Objetctif pour gagner:
 
