@@ -52,6 +52,6 @@ Conseils pour développer l'IA:
 
 prototype de la fonction: ex monIA(int** map, int* instruction);
 
-
+  LE PROGRAMME EST SOUS SDL et la bibliothèque SDL_TTF
 
   
