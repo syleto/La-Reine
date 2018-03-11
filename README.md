@@ -40,7 +40,7 @@ Les stratégies:
     Une autre stratégie serait d'attraper les meilleurs armes et survivre en attaquant les joueurs les plus faibles. 
     Une autre stratégie serait de prendre de prévoir les coups d'un adversaire si il est à côté d'un tel ou tel objet. 
     
-    Notre arène propose des dilemmes pour les jouers car plusieurs joueurs seront amenés à être à côté des mêmes objets et devront prendre les bonnes décisions  
+   Notre arène propose des dilemmes pour les jouers car plusieurs joueurs seront amenés à être à côté des mêmes objets et devront prendre les bonnes décisions  
     
 Conseils pour développer l'IA:
   Pour développer votre IA vous n'aurez qu'à faire une fonction qui retournera un tableau 1D d'instruction où chaque case représentera une action. Par exemple si je demande à l'IA d'avancer d'une case à droite et que l'action avancer d'une case à droite est la numéro 4 du tableaux, alors dans la fonction j'écris:
